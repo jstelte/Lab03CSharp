@@ -1,0 +1,10 @@
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\bin\Debug\GDIDrawer.dll
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\obj\Debug\Lab03.Form3.resources
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Lab03\Lab03\obj\Debug\Lab03.pdb
